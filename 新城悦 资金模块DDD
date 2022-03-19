@@ -1,17 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T13:34:52.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="D2dAOjNJ0yuOvVlP6QH5" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T13:38:59.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.46" etag="Fe-QiotMdfL3yWOBRKiH" version="17.1.3" type="github">
   <diagram id="acwRlo5hCTXK5vyAbaSG" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="le_TtNUEsm7gbXP3sb7z-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="le_TtNUEsm7gbXP3sb7z-1" target="le_TtNUEsm7gbXP3sb7z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="le_TtNUEsm7gbXP3sb7z-1" value="付款申请&lt;br&gt;PayReq" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="le_TtNUEsm7gbXP3sb7z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="le_TtNUEsm7gbXP3sb7z-2" target="le_TtNUEsm7gbXP3sb7z-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="le_TtNUEsm7gbXP3sb7z-2" value="付款额度申请PayQuota" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="le_TtNUEsm7gbXP3sb7z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="le_TtNUEsm7gbXP3sb7z-3" target="le_TtNUEsm7gbXP3sb7z-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="le_TtNUEsm7gbXP3sb7z-3" value="Schedule Service&lt;br&gt;排程服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="le_TtNUEsm7gbXP3sb7z-4" value="付款&lt;br&gt;Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="le_TtNUEsm7gbXP3sb7z-8" value="Entity" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="le_TtNUEsm7gbXP3sb7z-9" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="le_TtNUEsm7gbXP3sb7z-8">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
