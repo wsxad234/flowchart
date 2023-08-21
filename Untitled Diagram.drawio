@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T05:39:24.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="QBn5Olj11rUhgnLzkaom" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-21T06:01:07.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="GWlqiSrrLr8aRayIyPH7" version="21.6.8" type="github" pages="3">
   <diagram id="i5fcbizfy0IXlPW4B0TW" name="Page-1">
     <mxGraphModel dx="1803" dy="977" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,14 +153,101 @@
             <mxPoint x="157" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="gdaw6clznWm7xHMN8Zok-7" target="TlojmWvJTOroCL1vts7_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gdaw6clznWm7xHMN8Zok-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="482" width="100" height="60" as="geometry" />
+          <mxGeometry x="320" y="482" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gdaw6clznWm7xHMN8Zok-10" value="INT001-1 - WIAM - Employee Info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="473" width="140" height="30" as="geometry" />
+          <mxGeometry x="175" y="473" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdaw6clznWm7xHMN8Zok-11" value="Queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-1" value="PGP Encryption" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TlojmWvJTOroCL1vts7_-2" target="TlojmWvJTOroCL1vts7_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="370" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="646" y="478" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-4" value="CAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="582" y="563" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-5" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="513" as="sourcePoint" />
+            <mxPoint x="665" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-6" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="525" as="sourcePoint" />
+            <mxPoint x="665" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-7" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="536" as="sourcePoint" />
+            <mxPoint x="665" y="536" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-9" value="CAP receive the encrypted data from the queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="473" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlojmWvJTOroCL1vts7_-17" target="TlojmWvJTOroCL1vts7_-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="952" y="370" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="478" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-19" value="WIAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="976" y="563" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-20" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="979" y="513" as="sourcePoint" />
+            <mxPoint x="1059" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-21" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="979" y="525" as="sourcePoint" />
+            <mxPoint x="1059" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-22" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="979" y="536" as="sourcePoint" />
+            <mxPoint x="1059" y="536" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlojmWvJTOroCL1vts7_-23" target="TlojmWvJTOroCL1vts7_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="732" y="482" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-28" value="Retrieve data from queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="838" y="473" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-29" value="Queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="752" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-30" value="SailPoint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="482" width="98" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TlojmWvJTOroCL1vts7_-32" value="Perform account creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="482" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
