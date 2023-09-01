@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T07:04:46.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="n9Eoesv-49hIuXnd5QfS" version="21.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-01T07:09:38.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="2vLj4FI-MnAfFCCHK8wJ" version="21.7.1" type="github" pages="4">
   <diagram id="i5fcbizfy0IXlPW4B0TW" name="WIAM">
     <mxGraphModel dx="1843" dy="784" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8AZRGhuMNjotM4qLdo41" name="INT001-1">
-    <mxGraphModel dx="1653" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -394,12 +394,6 @@
         <mxCell id="AH-PYddhawDCN9hmsZF7-24" value="INT001-1 - WIAM - Employee Info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="80" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AH-PYddhawDCN9hmsZF7-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/number-circle-one-thin-128.png" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AH-PYddhawDCN9hmsZF7-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-thin-vol-3/256/number-circle-one-thin-128.png" vertex="1" parent="1">
-          <mxGeometry x="802" y="120" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="wNBr7JQ0A45E90Fpsrm4-3" value="CAP pass-through encrypted information to WIAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="80" width="140" height="30" as="geometry" />
         </mxCell>
@@ -414,6 +408,18 @@
         </mxCell>
         <mxCell id="wNBr7JQ0A45E90Fpsrm4-8" value="Response from HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="233" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNBr7JQ0A45E90Fpsrm4-9" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="570" y="235" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wNBr7JQ0A45E90Fpsrm4-10" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="500" y="125" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wNBr7JQ0A45E90Fpsrm4-11" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="812" y="125" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wNBr7JQ0A45E90Fpsrm4-12" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="880" y="238" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
