@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T10:14:21.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="2RWgcofwwFdmGDvWCaIc" version="21.8.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-09-27T03:15:16.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="gOoVmW-SXbOVn7aPpLmI" version="21.8.2" type="github" pages="10">
   <diagram id="i5fcbizfy0IXlPW4B0TW" name="WIAM">
     <mxGraphModel dx="2306" dy="1119" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8AZRGhuMNjotM4qLdo41" name="INT001-1">
-    <mxGraphModel dx="2066" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2306" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -514,7 +514,7 @@
             <mxPoint x="1005" y="846" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="op0rGjVGiiB1_9-aOYCl-25" value="INT001-1 - WIAM - Employee Info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="op0rGjVGiiB1_9-aOYCl-25" value="INT001-1 - Send encrypted Employee Info to CAP.EMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="428" y="736" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="op0rGjVGiiB1_9-aOYCl-26" value="CAP.EMM pass-through encrypted employee information to WIAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -595,7 +595,7 @@
         <mxCell id="op0rGjVGiiB1_9-aOYCl-61" value="INT001-2 WIAM - Mobile Info request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="1048" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="op0rGjVGiiB1_9-aOYCl-63" value="HCM return response to WIAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="op0rGjVGiiB1_9-aOYCl-63" value="HCM response Mobile Info to WIAM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="1103" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="op0rGjVGiiB1_9-aOYCl-65" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
@@ -1129,7 +1129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PHVFkeYtsyyENC9a3Yyy" name="CRM">
-    <mxGraphModel dx="1488" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2306" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1148,7 +1148,7 @@
         <mxCell id="LEgb7GEBEnuE9Z7T42wb-25" value="&lt;br&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:305pt&quot; width=&quot;406&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;  &lt;td style=&quot;height:14.4pt;width:305pt&quot; width=&quot;406&quot; height=&quot;19&quot;&gt;INT006-1 - HCM.EC send encrypted&lt;br&gt;  Betting Account Request to CAP.EMM&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="182" y="390" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LEgb7GEBEnuE9Z7T42wb-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.002;exitY=0.315;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="LEgb7GEBEnuE9Z7T42wb-16">
+        <mxCell id="LEgb7GEBEnuE9Z7T42wb-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.002;exitY=0.315;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="LEgb7GEBEnuE9Z7T42wb-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570.24" y="424.85" as="sourcePoint" />
             <mxPoint x="770.72" y="424.28" as="targetPoint" />
@@ -1262,15 +1262,15 @@
         <mxCell id="LEgb7GEBEnuE9Z7T42wb-45" value="CAP.EMM pass-through encrypted&amp;nbsp;Betting Account Eligibility List&amp;nbsp;&amp;nbsp;to CRM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="490" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yW_ksSEsTfJAoYuaI8zI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LEgb7GEBEnuE9Z7T42wb-2" target="LEgb7GEBEnuE9Z7T42wb-9">
+        <mxCell id="yW_ksSEsTfJAoYuaI8zI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="LEgb7GEBEnuE9Z7T42wb-2" target="LEgb7GEBEnuE9Z7T42wb-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LEgb7GEBEnuE9Z7T42wb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="LEgb7GEBEnuE9Z7T42wb-9" edge="1" target="LEgb7GEBEnuE9Z7T42wb-16">
+        <mxCell id="LEgb7GEBEnuE9Z7T42wb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="LEgb7GEBEnuE9Z7T42wb-9" target="LEgb7GEBEnuE9Z7T42wb-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="522.0869565217392" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRLgGEwkSxjh0UIP6isw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.023;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.015;exitY=0.321;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="YRLgGEwkSxjh0UIP6isw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.023;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.015;exitY=0.321;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="807.1999999999998" y="434.99" as="sourcePoint" />
             <mxPoint x="571.76" y="434.6100000000001" as="targetPoint" />
