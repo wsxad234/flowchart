@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T03:15:16.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="gOoVmW-SXbOVn7aPpLmI" version="21.8.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-10-09T08:54:38.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="woCDNl-H9sm8Px4WpGAL" version="21.8.2" type="github" pages="10">
   <diagram id="i5fcbizfy0IXlPW4B0TW" name="WIAM">
-    <mxGraphModel dx="2306" dy="1119" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="543" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1512,7 +1512,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d5m93KF5WU_iwZLL0KCJ" name="SMIS">
-    <mxGraphModel dx="1892" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2132" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1591,7 +1591,7 @@
         <mxCell id="MgSdeklWNodImQrwa0jT-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="1" vertex="1">
           <mxGeometry x="348" y="587.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MgSdeklWNodImQrwa0jT-19" value="CAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MgSdeklWNodImQrwa0jT-19" value="CAP.EMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="284" y="677.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MgSdeklWNodImQrwa0jT-20" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" parent="1" edge="1">
@@ -1612,7 +1612,7 @@
             <mxPoint x="367" y="645.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MgSdeklWNodImQrwa0jT-23" value="CAP pass-through encrypted&amp;nbsp; Stakes and Allowances Info to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MgSdeklWNodImQrwa0jT-23" value="CAP.EMM pass-through encrypted&amp;nbsp; Stakes and Allowances Info to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="72" y="420.75" width="160" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="MgSdeklWNodImQrwa0jT-24" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
@@ -1624,7 +1624,7 @@
         <mxCell id="MgSdeklWNodImQrwa0jT-31" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
           <mxGeometry x="400" y="500" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MgSdeklWNodImQrwa0jT-32" value="CAP pass-through encrypted&amp;nbsp; Stable Assignment&amp;nbsp; to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MgSdeklWNodImQrwa0jT-32" value="CAP.EMM pass-through encrypted&amp;nbsp; Stable Assignment info to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="479.38" width="160" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="MgSdeklWNodImQrwa0jT-38" value="&lt;br&gt;&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;406&quot; style=&quot;border-collapse:&lt;br/&gt; collapse;width:305pt&quot;&gt; &lt;colgroup&gt;&lt;col width=&quot;406&quot; style=&quot;mso-width-source:userset;mso-width-alt:14449;width:305pt&quot;&gt;&lt;/colgroup&gt; &lt;tbody&gt;&lt;tr height=&quot;19&quot; style=&quot;height:14.4pt&quot;&gt;  &lt;td height=&quot;19&quot; width=&quot;406&quot; style=&quot;height:14.4pt;width:305pt&quot;&gt;INT009-5 - SMIS &lt;br&gt;-Staff Information&lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1663,7 +1663,7 @@
         <mxCell id="MgSdeklWNodImQrwa0jT-45" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
           <mxGeometry x="60" y="550" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MgSdeklWNodImQrwa0jT-46" value="CAP pass-through encrypted&amp;nbsp; Staff Info to SMIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MgSdeklWNodImQrwa0jT-46" value="CAP.EMM pass-through encrypted Staff Info to SMIS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="533.87" width="160" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="MgSdeklWNodImQrwa0jT-47" value="&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:305pt&quot; width=&quot;406&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&lt;td style=&quot;height:14.4pt;width:305pt&quot; width=&quot;406&quot; height=&quot;19&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:305pt&quot; width=&quot;406&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&lt;br/&gt;  &lt;td style=&quot;height:14.4pt;width:305pt&quot; width=&quot;406&quot; height=&quot;19&quot;&gt;INT009-6 - SMIS -&lt;br/&gt;  Livery Charges and Training Fees&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1672,7 +1672,7 @@
         <mxCell id="MgSdeklWNodImQrwa0jT-48" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="1" vertex="1">
           <mxGeometry x="400" y="600" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MgSdeklWNodImQrwa0jT-51" value="CAP pass-through encrypted&amp;nbsp; Livery Charges and Training Fees&amp;nbsp;to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MgSdeklWNodImQrwa0jT-51" value="CAP.EMM pass-through encrypted Livery Charges and Training Fees&amp;nbsp;to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="594.5" width="160" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="MgSdeklWNodImQrwa0jT-52" value="HCM.EC TIME" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1708,16 +1708,16 @@
             <mxPoint x="22.210000000000036" y="928.3605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MgSdeklWNodImQrwa0jT-69" value="CAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MgSdeklWNodImQrwa0jT-69" value="CAP.EMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250.5" y="999" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MgSdeklWNodImQrwa0jT-73" value="CAP pass-through encrypted&amp;nbsp; staff leave Info to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MgSdeklWNodImQrwa0jT-73" value="CAP.EMM pass-through encrypted staff leave Info to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="42" y="809.75" width="160" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="MgSdeklWNodImQrwa0jT-75" value="&lt;table style=&quot;border-collapse:&lt;br/&gt; collapse;width:305pt&quot; width=&quot;406&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:14.4pt&quot; height=&quot;19&quot;&gt;&lt;br/&gt;  &lt;td style=&quot;height:14.4pt;width:305pt&quot; width=&quot;406&quot; height=&quot;19&quot;&gt;INT009-4 - SMIS -&lt;br/&gt;  Staff Balance&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=bottom;rounded=0;horizontal=1;spacing=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="371" y="885" width="140" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="MgSdeklWNodImQrwa0jT-77" value="CAP pass-through encrypted&amp;nbsp; staff balance&amp;nbsp; info to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MgSdeklWNodImQrwa0jT-77" value="CAP.EMM pass-through encrypted staff balance info to HCM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="882.38" width="160" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="MgSdeklWNodImQrwa0jT-79" value="" style="group" parent="1" vertex="1" connectable="0">
