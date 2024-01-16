@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T06:51:30.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RyDJia94vRdBbgXeSZ5Y" version="22.1.18" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-01-16T06:21:03.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="le7hczdTRNRBFkRrSuae" version="22.1.18" type="github" pages="19">
   <diagram id="i5fcbizfy0IXlPW4B0TW" name="WIAM">
-    <mxGraphModel dx="2306" dy="1119" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="543" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2248,7 +2248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FASC" id="fdT7rX01gKuboI3iTfdI">
-    <mxGraphModel dx="2306" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2096" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NlUiLFnSDNsN5SxN3wwD-0" />
         <mxCell id="NlUiLFnSDNsN5SxN3wwD-1" parent="NlUiLFnSDNsN5SxN3wwD-0" />
@@ -2460,13 +2460,13 @@
           <mxGeometry x="375" y="817" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
-          <mxGeometry x="230" y="1120" width="150" height="267" as="geometry" />
+          <mxGeometry x="230" y="1120" width="150" height="310" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
           <mxGeometry x="318" y="1313" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-35" value="HCM.EC/ECP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
-          <mxGeometry x="254" y="1398" width="60" height="30" as="geometry" />
+          <mxGeometry x="254" y="1431" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-36" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" parent="NlUiLFnSDNsN5SxN3wwD-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2487,13 +2487,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
-          <mxGeometry x="898" y="1120" width="122" height="267" as="geometry" />
+          <mxGeometry x="898" y="1120" width="122" height="310" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
           <mxGeometry x="986" y="1316" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F8aLBurUPdq4lvvC4GWh-41" value="FASC.HK/CRC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
-          <mxGeometry x="922" y="1401" width="60" height="30" as="geometry" />
+        <mxCell id="F8aLBurUPdq4lvvC4GWh-41" value="FASC / FASC.CRC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
+          <mxGeometry x="905" y="1434" width="108" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-42" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" parent="NlUiLFnSDNsN5SxN3wwD-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2514,13 +2514,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
-          <mxGeometry x="570" y="1120" width="120" height="267" as="geometry" />
+          <mxGeometry x="570" y="1120" width="120" height="310" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-48" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
           <mxGeometry x="658" y="1315" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-49" value="CAP.EMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
-          <mxGeometry x="594" y="1400" width="60" height="30" as="geometry" />
+          <mxGeometry x="594" y="1433" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F8aLBurUPdq4lvvC4GWh-50" value="" style="endArrow=none;html=1;rounded=0;align=center;strokeWidth=3;" parent="NlUiLFnSDNsN5SxN3wwD-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2609,7 +2609,7 @@
             <mxPoint x="380" y="1293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F8aLBurUPdq4lvvC4GWh-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.008;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" parent="NlUiLFnSDNsN5SxN3wwD-1" source="F8aLBurUPdq4lvvC4GWh-39" edge="1">
+        <mxCell id="F8aLBurUPdq4lvvC4GWh-93" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.01;exitY=0.584;exitDx=0;exitDy=0;exitPerimeter=0;" parent="NlUiLFnSDNsN5SxN3wwD-1" source="F8aLBurUPdq4lvvC4GWh-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="1300" as="sourcePoint" />
             <mxPoint x="690" y="1300" as="targetPoint" />
@@ -2621,8 +2621,29 @@
             <mxPoint x="690" y="1354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F8aLBurUPdq4lvvC4GWh-95" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
+        <mxCell id="F8aLBurUPdq4lvvC4GWh-95" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" parent="NlUiLFnSDNsN5SxN3wwD-1" vertex="1">
           <mxGeometry x="697" y="1320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yJlax4Wjkia-2Mfx7Xez-0" value="INT003-11 FASC Send FX rate to CAP.EMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NlUiLFnSDNsN5SxN3wwD-1">
+          <mxGeometry x="719" y="1370" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJlax4Wjkia-2Mfx7Xez-1" value="11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="NlUiLFnSDNsN5SxN3wwD-1">
+          <mxGeometry x="696" y="1375" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yJlax4Wjkia-2Mfx7Xez-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.01;exitY=0.584;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="NlUiLFnSDNsN5SxN3wwD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="895" y="1409" as="sourcePoint" />
+            <mxPoint x="688" y="1408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yJlax4Wjkia-2Mfx7Xez-3" value="CAP.EMM pass-through encrypted&amp;nbsp;&lt;br&gt;FX rate to EC/ECP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NlUiLFnSDNsN5SxN3wwD-1">
+          <mxGeometry x="379" y="1375" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yJlax4Wjkia-2Mfx7Xez-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.992;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NlUiLFnSDNsN5SxN3wwD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569" y="1406" as="sourcePoint" />
+            <mxPoint x="379" y="1406" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
