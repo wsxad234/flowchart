@@ -377,11 +377,62 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="WABKJMn9xFO7jb-q7mnf" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="WABKJMn9xFO7jb-q7mnf" name="Inbound">
+    <mxGraphModel dx="1302" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmOTIs-3_IvJB-gg4GxT-5" target="kmOTIs-3_IvJB-gg4GxT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-5" value="Duplicate File Check" style="strokeColor=#0070F2;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="305" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmOTIs-3_IvJB-gg4GxT-7" target="kmOTIs-3_IvJB-gg4GxT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-7" value="Mandatory Field &#xa;Check" style="strokeColor=#0070F2;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="323" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmOTIs-3_IvJB-gg4GxT-9" target="kmOTIs-3_IvJB-gg4GxT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-9" value="Business Processing &#xa;Logic" style="strokeColor=#0070F2;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="310" y="323" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmOTIs-3_IvJB-gg4GxT-11" target="kmOTIs-3_IvJB-gg4GxT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-11" value="Backup Message &#xa;in CPI" style="strokeColor=#0070F2;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmOTIs-3_IvJB-gg4GxT-13" target="kmOTIs-3_IvJB-gg4GxT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-13" value="Backup Message &#xa;in SFTP" style="strokeColor=#0070F2;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="650" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmOTIs-3_IvJB-gg4GxT-16" target="kmOTIs-3_IvJB-gg4GxT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-16" value="Message Decryption" style="strokeColor=#0070F2;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="650" y="323" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-20" value="Write Log to SF" style="strokeColor=#0070F2;shadow=0;strokeWidth=2;rounded=1;absoluteArcSize=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="310" y="418" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-23" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=message;" vertex="1" parent="1">
+          <mxGeometry x="515" y="418" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kmOTIs-3_IvJB-gg4GxT-20" target="kmOTIs-3_IvJB-gg4GxT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmOTIs-3_IvJB-gg4GxT-25" target="kmOTIs-3_IvJB-gg4GxT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmOTIs-3_IvJB-gg4GxT-25" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
